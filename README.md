@@ -7,7 +7,7 @@ In essence, it's like babel transforming modern Javascript to older versions for
 
 PostCSS is highly configurable. We can install and set various plugins to make it more powerful, of which an important one is the [PostCSS Preset Env](https://preset-env.cssdb.org/) plugin.  
 
-This plugin allows us to use new CSS features listed [here](https://preset-env.cssdb.org/features/) by transforming them to something stable enough that most browsers support. Many of these features are still in the experimental stage (see [stage]() for more information), but they make our life a lot easier as developers so we'd like to use them sooner rather than later. PostCSS makes it possible for us to do so.
+This plugin allows us to use new CSS features listed [here](https://preset-env.cssdb.org/features/) by transforming them to something stable enough that most browsers support. Many of these features are still in the experimental stage (see [stage](https://cssdb.org/#the-staging-process) for more information), but they make our life a lot easier as developers so we'd like to use them sooner rather than later. PostCSS makes it possible for us to do so.
 
 
 ## Setup
